@@ -1,0 +1,2 @@
+D:/2025/Projects/Android projects/nourah/dawri_app/android/app/.cxx/Debug/3i444s5n/armeabi-v7a/CMakeFiles/edit_cache.dir
+D:/2025/Projects/Android projects/nourah/dawri_app/android/app/.cxx/Debug/3i444s5n/armeabi-v7a/CMakeFiles/rebuild_cache.dir

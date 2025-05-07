@@ -1,0 +1,2 @@
+C:/devel/dawri_app/android/app/.cxx/Debug/6t5h4c2b/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/devel/dawri_app/android/app/.cxx/Debug/6t5h4c2b/armeabi-v7a/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "25570279730",
+    "project_id": "dawri-44413",
+    "storage_bucket": "dawri-44413.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:25570279730:android:2ca501504693406ec9972b",
+        "android_client_info": {
+          "package_name": "com.dawri.dawri_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAanEy7HOkZBJQMrEutKOfIDDvtmdmUTH4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:25570279730:android:4ba4a1b294787e6cc9972b",
+        "android_client_info": {
+          "package_name": "com.example.dawri_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAanEy7HOkZBJQMrEutKOfIDDvtmdmUTH4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

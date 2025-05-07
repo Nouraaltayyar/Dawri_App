@@ -1,0 +1,2 @@
+D:/2025/Projects/Android projects/nourah/dawri_app/android/app/.cxx/RelWithDebInfo/e4i4u6s4/armeabi-v7a/CMakeFiles/edit_cache.dir
+D:/2025/Projects/Android projects/nourah/dawri_app/android/app/.cxx/RelWithDebInfo/e4i4u6s4/armeabi-v7a/CMakeFiles/rebuild_cache.dir
