@@ -56,6 +56,36 @@ flutter pub get
 6. Use special case options if applicable (e.g., elderly or individuals with special needs).
 7. After service, submit feedback to help improve service quality.
 
+  ## Project Structure
+
+The following summarizes the key files and folders in the lib/ directory:
+
+### Folders:
+	•	admin/ – Screens and logic for the system administrator.
+	•	owner/ – Screens for business owners to manage queues and add+edit location and send notifications.
+	•	services/ – Shared services such as Auth and Firebase .
+	•	screenshots/ – Contains screenshots used in the README.
+
+### Key Dart Files:
+	•	main.dart – The entry point of the app.
+	•	Home.dart – Main page with navigation for users.
+	•	Login.dart / Signup.dart – User authentication screens.
+	•	Welcome.dart – Welcome screen displayed on first launch.
+	•	Onboarding_content.dart / Onboarding_screen.dart – Onboarding content and layout.
+	•	My_reservation_page.dart – Displays the user’s current reservation.
+	•	Notifications_page.dart / Notifications_details.dart – Displays notifications and their details.
+	•	ReservPage.dart / UpdatePage.dart – Booking a queue and updating it.
+	•	RatePage.dart / FeedBackPage.dart – Pages for submitting user reviews.
+	•	Seeting.dart – App settings screen.
+	•	UsersPage.dart – Displays user account information.
+	•	AboutPage.dart – App information screen.
+	•	forgot.dart – Password recovery screen.
+	•	bankPage.dart / cafePage.dart / eventPage.dart / resturantPage.dart / 
+      Halthcarepage.dart – Screens for individual places.
+	•	bankPlacePage.dart / cafePlacePage.dart / eventPlacePage.dart / restaurantplacepage.dart / healthcareplacepage.dart – Lists of available places.
+	•	CReservPage.dart – Reservation confirmation screen.
+	•	DetailsReview.dart – Displays user review history and integrates the average rating calculation function.
+	•	firebase_options.dart – Firebase project configuration.
 
 ## Contributing
 1. Fork the repository.
