@@ -10,7 +10,7 @@
 
 
 ## Screenshots
-![Home Screen](screenshots/Screenshot_Home.png)
+![Home Screen](lib/screenshots/Screenshot_Home.png)
 ![Reservations](screenshots/Screenshot_Reservations.png)
 ![Notification](screenshots/Screenshot_Notification.png)
 ![Queue](screenshots/Screenshot_queue.png)
