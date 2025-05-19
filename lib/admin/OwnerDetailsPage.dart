@@ -94,7 +94,7 @@ class OwnerDetailsPage extends StatelessWidget {
           ),
         ),
         onPressed: () {
-          // تقدر هنا تحدد كل زر وش يسوي حسب المطلوب
+          // 
           ScaffoldMessenger.of(context).showSnackBar(
             SnackBar(content: Text('$text button pressed')),
           );
