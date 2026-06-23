@@ -11,7 +11,7 @@
 
 ## Screenshots
 ![Home Screen](images/PHOTO-2025-05-05-21-59-08.jpeg)
-![Reservations](screenshots/Screenshot_Reservations.png)
+![Reservations](images/PHOTO-2025-05-05-22-05-21.jpeg)
 ![Notification](images/PHOTO-2025-05-05-21-58-47.jpeg)
 ![Queue](images/PHOTO-2025-05-05-22-05-21.jpeg)
 ![Rate](screenshots/Screenshot_Rate.png)
