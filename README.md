@@ -13,7 +13,7 @@
 ![Home Screen](images/PHOTO-2025-05-05-21-59-08.jpeg)
 ![Reservations](screenshots/Screenshot_Reservations.png)
 ![Notification](images/PHOTO-2025-05-05-21-58-47.jpeg)
-![Queue](screenshots/Screenshot_queue.png)
+![Queue](images/PHOTO-2025-05-05-22-05-21.jpeg)
 ![Rate](screenshots/Screenshot_Rate.png)
 
 ## Getting Started
