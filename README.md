@@ -10,7 +10,7 @@
 
 
 ## Screenshots
-![Home Screen](lib/screenshots/Screenshot_Home.png)
+![Home Screen](images/PHOTO-2025-05-05-21-59-08.jpeg)
 ![Reservations](screenshots/Screenshot_Reservations.png)
 ![Notification](images/PHOTO-2025-05-05-21-58-47.jpeg)
 ![Queue](screenshots/Screenshot_queue.png)
