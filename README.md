@@ -14,7 +14,7 @@
 ![Reservations](images/PHOTO-2025-05-05-22-05-21.jpeg)
 ![Notification](images/PHOTO-2025-05-05-21-58-47.jpeg)
 ![Queue](images/PHOTO-2025-05-05-22-05-21.jpeg)
-![Rate](screenshots/Screenshot_Rate.png)
+![Rate](images/PHOTO-2025-05-05-21-47-58.jpeg)
 
 ## Getting Started
 
